@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+.navbar h1 {
+    margin-left: 10px;
+    font-size: 100px;
+    color: black;
+}
+
+.form-control {
+    width: 250px;
+    margin-bottom: 0px;
+}
+
+.formulario-registro div {
+    margin-bottom: 20px;
+}
+
+form .form-error {
+    color: red;
+    white-space: nowrap;
+    font-size: 0.9rem;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.formulario-registro {
+    width: 400px;
+    height: auto;
+    color: black;
+    border: 1px solid #d1d1d1;
+    border-radius: 8px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.btn-primary {
+    background-color: #5e43d8;
+    border-color: #5e43d8;
+    width: 200px;
+}
+
+.btn-primary:hover {
+    background-color: #5e43d8;
+    border-color: #5e43d8;
+}
+
+h2 {
+    font-size: 50px;
+    color: black;
+}
+
+.contenedor-general {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.formulario-registro {
+    margin-top: 20px;
+}
+
+#navbarNav{
+	margin-right: 500px;
+}
+
+.navbar-nav .nav-link {
+    color: black;
+}

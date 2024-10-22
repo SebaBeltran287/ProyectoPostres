@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+#navbarNav{
+	margin-right: 500px;
+}
+
+.navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar h1 {
+    margin-left: 5px;
+    float: left;
+    display: block;
+    font-size: 100px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.nombre-postre {
+    font-size: 50px;
+    margin-top: 0px;
+    color: black;
+    margin-left: 20px;
+}
+
+.container{
+	margin: 0;
+	margin-left: 20px;
+	width: 700px;
+	color: black;
+}
+
+.contenedor-postre {
+    border: 2px solid #d2d2d2;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 60%; 
+    margin-left: 20px;
+}
+
+.card-body h3,
+.card-body h4 {
+    color: grey;
+	font-size: 20px;
+}
+
+.card-body p {
+    color: black;
+    font-size: 19px;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    width: 150px;
+    height: 50px;
+}
+
